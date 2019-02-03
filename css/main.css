@@ -929,6 +929,15 @@ footer {
 		width: 400px;
 	}
 
+		.team-info {
+		align-items: center;
+		justify-content: center;
+	}
+
+	.team-info .line {
+		margin-left: auto;
+	}
+
 }
 
 @media (max-width: 767px) {
@@ -1039,6 +1048,15 @@ footer {
 
 	.feedback-form__button {
 		width: 400px;
+	}
+
+		.team-info {
+		align-items: center;
+		justify-content: center;
+	}
+
+	.team-info .line {
+		margin-left: auto;
 	}
 
 }
@@ -1199,6 +1217,7 @@ footer {
 
 	.team-info {
 		align-items: center;
+		justify-content: center;
 	}
 
 	.team-info .line {
