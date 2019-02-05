@@ -1198,8 +1198,8 @@ footer {
 	}
 
 	.hats-title {
-		font-size: 38px;
-		line-height: 55px;
+		font-size: 30px;
+		line-height: 50px;
 	}
 
 	.hats-d {
@@ -1324,7 +1324,7 @@ footer {
 	}
 	
 	.subscribe-input__email {
-		padding: 33px 200px 32px 36px;
+		padding: 33px 100px 32px 36px;
 		margin-right: 0;
 	}
 
@@ -1339,8 +1339,8 @@ footer {
 	.form {
 		display: flex;
 		flex-direction: column;
-		width: 400px;
 		margin-right: 0;
+		width: auto;
 	}
 
 	/*.feedback-form {
@@ -1348,21 +1348,22 @@ footer {
 	}*/
 
 	.feedback-form__name {
-		width: 250px;
+		width: 200px;
 		margin-bottom: 20px;
+		margin-right: 0;
 	}
 
 	.feedback-form__email {
-		width: 250px;
+		width: 200px;
 	}
 
 	.feedback-form__message {
-		width: 300px;
+		width: 250px;
 		margin-top: 20px;
 	}
 
 	.feedback-form__button {
-		width: 400px;
+		width: 350px;
 	}
 
 	.contact-info {
