@@ -1255,6 +1255,7 @@ footer {
 	.team-info {
 		align-items: center;
 		justify-content: center;
+		text-align: center;
 	}
 
 	.team-info .line {
@@ -1416,11 +1417,7 @@ footer {
 	}
 
 	.team-info .line {
-		margin-left: 0;
-	}
-
-	.form {
-		width: 290px;
+		margin-left: auto;
 	}
 	
 	.feedback-form__name {
