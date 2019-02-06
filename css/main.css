@@ -1113,6 +1113,7 @@ footer {
 	.other-profile {
 		justify-content: space-evenly;
 		flex-wrap: wrap;
+		flex-direction: column;
 	}
 
 	.other-profile__avatar {
